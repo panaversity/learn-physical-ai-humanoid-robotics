@@ -49,6 +49,8 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [Jetson Thor: Your Future Robotic Sidekick](https://www.ignitepathways.org/post/jetson-thor)
 
+[NVIDIA Jetson for Next-Generation Robotics](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+
 Additional:
 
 [Accelerating AI Modules for ROS and ROS 2 on NVIDIA Jetson Platform: 2021 Article](https://developer.nvidia.com/blog/accelerating-ai-modules-for-ros-and-ros-2-on-jetson/)
