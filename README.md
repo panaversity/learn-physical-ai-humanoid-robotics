@@ -15,3 +15,5 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 [ROS 2 AI](https://github.com/fujitatomoya/ros2ai)
 
 [ROS 2 Courses](http://www.robotigniteacademy.com/open-classes/)
+
+[ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies)
