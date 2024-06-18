@@ -12,15 +12,25 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [ROS and AI: An exploration of how AI and machine learning can be integrated with ROS for advanced robotic applications](https://bootcampai.medium.com/ros-and-ai-an-exploration-of-how-ai-and-machine-learning-can-be-integrated-with-ros-for-advanced-2711a4d0fa37)
 
+[Robot Operating System (ROS): The Future of Automation](https://www.geeksforgeeks.org/robot-operating-system-ros-the-future-of-automation/)
+
+[ROS 2 Jazzy Jalisco has been released](https://www.linkedin.com/feed/update/urn:li:activity:7199428461860462592/)
+
 [ROS 2 Documentation](https://docs.ros.org/en/jazzy/index.html)
 
 [ROS 2 AI](https://github.com/fujitatomoya/ros2ai)
+
+[ROS for Human-Robot Interaction](https://wiki.ros.org/hri)
 
 [ROS 2 Courses](http://www.robotigniteacademy.com/open-classes/)
 
 [ROS2 Support on NVIDIA Jetson](https://nvidia-ai-iot.github.io/ros2_jetson/)
 
+[G1 humanoid robot](https://www.generationrobots.com/en/404241-g1-humanoid-robot.html)
+
 [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies)
+
+[Open Robotics](https://www.openrobotics.org/)
 
 Additional:
 
