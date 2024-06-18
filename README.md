@@ -38,7 +38,11 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [Open Robotics](https://www.openrobotics.org/))
 
-[Planet ROS for all the News](https://planet.ros.org/
+[Planet ROS for all the News](https://planet.ros.org/)
+
+[NVIDIA Isaac ROS](https://developer.nvidia.com/isaac/ros)
+
+[NVIDIA Project GR00T](https://developer.nvidia.com/project-gr00t)
 
 Additional:
 
