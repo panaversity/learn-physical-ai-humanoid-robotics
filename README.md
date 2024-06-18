@@ -16,6 +16,8 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [ROS 2 Jazzy Jalisco has been released](https://www.linkedin.com/feed/update/urn:li:activity:7199428461860462592/)
 
+[Robot programming with ROS 2 Online Course](https://www.youtube.com/playlist?list=PL9R2s5XMUJUMrBar9WkCkY-oBbvG3DltF)
+
 [ROS 2 Documentation](https://docs.ros.org/en/jazzy/index.html)
 
 [ROS 2 AI](https://github.com/fujitatomoya/ros2ai)
