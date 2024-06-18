@@ -26,6 +26,8 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [ROS 2 Courses](http://www.robotigniteacademy.com/open-classes/)
 
+[NVIDIA Robotics Adopted by Industry Leaders for Development of Tens of Millions of AI-Powered Autonomous Machines](https://nvidianews.nvidia.com/news/robotics-industry-development-ai-autonomous-machines)
+
 [ROS2 Support on NVIDIA Jetson](https://nvidia-ai-iot.github.io/ros2_jetson/)
 
 [ROSMan - ROS Humanoid Robot Development Platform with Raspberry Pi 5](https://thinkrobotics.com/products/rosman)
