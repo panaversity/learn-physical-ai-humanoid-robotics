@@ -34,7 +34,9 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies)
 
-[Open Robotics](https://www.openrobotics.org/)
+[Open Robotics](https://www.openrobotics.org/))
+
+[Planet ROS for all the News](https://planet.ros.org/
 
 Additional:
 
