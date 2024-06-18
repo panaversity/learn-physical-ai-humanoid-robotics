@@ -10,10 +10,18 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 ### Study Material
 
+[ROS and AI: An exploration of how AI and machine learning can be integrated with ROS for advanced robotic applications](https://bootcampai.medium.com/ros-and-ai-an-exploration-of-how-ai-and-machine-learning-can-be-integrated-with-ros-for-advanced-2711a4d0fa37)
+
 [ROS 2 Documentation](https://docs.ros.org/en/jazzy/index.html)
 
 [ROS 2 AI](https://github.com/fujitatomoya/ros2ai)
 
 [ROS 2 Courses](http://www.robotigniteacademy.com/open-classes/)
 
+[ROS2 Support on NVIDIA Jetson](https://nvidia-ai-iot.github.io/ros2_jetson/)
+
 [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies)
+
+Additional:
+
+[Accelerating AI Modules for ROS and ROS 2 on NVIDIA Jetson Platform: 2021 Article](https://developer.nvidia.com/blog/accelerating-ai-modules-for-ros-and-ros-2-on-jetson/)
