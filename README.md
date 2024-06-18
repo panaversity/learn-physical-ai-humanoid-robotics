@@ -26,6 +26,8 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [ROS2 Support on NVIDIA Jetson](https://nvidia-ai-iot.github.io/ros2_jetson/)
 
+[ROSMan - ROS Humanoid Robot Development Platform with Raspberry Pi 5](https://thinkrobotics.com/products/rosman)
+
 [G1 humanoid robot](https://www.generationrobots.com/en/404241-g1-humanoid-robot.html)
 
 [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies)
