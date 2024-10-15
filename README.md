@@ -18,6 +18,8 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [Watch Video Course: ROS2 for Beginners](https://www.manning.com/livevideo/ros2-for-beginners)
 
+[Textbook: ROS 2 for Beginners: Create ROS 2 applications from scratch with Python and C++](https://www.amazon.com/ROS-Beginners-Create-applications-scratch-ebook/dp/B0DHV4VF5C/ref=sr_1_4)
+
 [ROS and AI: An exploration of how AI and machine learning can be integrated with ROS for advanced robotic applications](https://bootcampai.medium.com/ros-and-ai-an-exploration-of-how-ai-and-machine-learning-can-be-integrated-with-ros-for-advanced-2711a4d0fa37)
 
 [Robot Operating System (ROS): The Future of Automation](https://www.geeksforgeeks.org/robot-operating-system-ros-the-future-of-automation/)
