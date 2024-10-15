@@ -12,7 +12,11 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 [ROS2 Basics in 5 Days](https://app.theconstruct.ai/Desktop/)
 
-[Ros2 Tutorials For Beginners](Ros2 Tutorials For Beginners)
+[Ros2 Tutorials For Beginners](https://www.restack.io/p/beginners-guide-to-artificial-intelligence-answer-ros2-tutorials-cat-ai)
+
+[Artificial Intelligence for Robotics: Build intelligent robots using ROS 2, Python, OpenCV, and AI/ML techniques for real-world tasks](https://www.amazon.com/Artificial-Intelligence-Robotics-intelligent-techniques/dp/1805129597/ref=sr_1_1)
+
+[Watch Video Course: ROS2 for Beginners](https://www.manning.com/livevideo/ros2-for-beginners)
 
 [ROS and AI: An exploration of how AI and machine learning can be integrated with ROS for advanced robotic applications](https://bootcampai.medium.com/ros-and-ai-an-exploration-of-how-ai-and-machine-learning-can-be-integrated-with-ros-for-advanced-2711a4d0fa37)
 
