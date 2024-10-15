@@ -8,6 +8,10 @@ Artificial intelligence (AI) has experienced remarkable advancements in recent y
 
 This course provides an in-depth exploration of humanoid robotics, focusing on the integration of ROS 2 (Robot Operating System), Open Source Meta Llama 3, and OpenAI technologies. Students will learn to design, simulate, and deploy advanced humanoid robots capable of natural interactions. The curriculum covers essential topics such as ROS 2 for robotic control, simulations with Gazebo and Unity, and using OpenAI’s GPT models for conversational AI. Through practical projects and real-world applications, students will develop the skills needed to drive innovation in humanoid robotics.
 
+This is the best teacher of robotics in the world, we will follow him:
+
+https://www.packtpub.com/authors/edouard-renard
+
 ### Study Material
 
 [ROS2 Basics in 5 Days](https://app.theconstruct.ai/Desktop/)
