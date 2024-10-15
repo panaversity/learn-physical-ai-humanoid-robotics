@@ -10,6 +10,10 @@ This course provides an in-depth exploration of humanoid robotics, focusing on t
 
 ### Study Material
 
+[ROS2 Basics in 5 Days](https://app.theconstruct.ai/Desktop/)
+
+[Ros2 Tutorials For Beginners](Ros2 Tutorials For Beginners)
+
 [ROS and AI: An exploration of how AI and machine learning can be integrated with ROS for advanced robotic applications](https://bootcampai.medium.com/ros-and-ai-an-exploration-of-how-ai-and-machine-learning-can-be-integrated-with-ros-for-advanced-2711a4d0fa37)
 
 [Robot Operating System (ROS): The Future of Automation](https://www.geeksforgeeks.org/robot-operating-system-ros-the-future-of-automation/)
