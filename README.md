@@ -14,6 +14,20 @@ https://www.packtpub.com/authors/edouard-renard
 
 ### Study Material
 
+This is the best teacher of robotics in the world, we will follow him:
+
+https://www.packtpub.com/authors/edouard-renard
+
+We will do this course first:
+
+https://www.udemy.com/course/ros2-for-beginners/
+
+ We will adopt this book as our text book after this book is published:
+ 
+https://www.amazon.com/ROS-Beginners-Create-applications-scratch-ebook/dp/B0DHV4VF5C/ref=sr_1_4
+
+### Additional Material
+
 [ROS2 Basics in 5 Days](https://app.theconstruct.ai/Desktop/)
 
 [Ros2 Tutorials For Beginners](https://www.restack.io/p/beginners-guide-to-artificial-intelligence-answer-ros2-tutorials-cat-ai)
@@ -21,8 +35,6 @@ https://www.packtpub.com/authors/edouard-renard
 [Artificial Intelligence for Robotics: Build intelligent robots using ROS 2, Python, OpenCV, and AI/ML techniques for real-world tasks](https://www.amazon.com/Artificial-Intelligence-Robotics-intelligent-techniques/dp/1805129597/ref=sr_1_1)
 
 [Watch Video Course: ROS2 for Beginners](https://www.manning.com/livevideo/ros2-for-beginners)
-
-[Textbook: ROS 2 for Beginners: Create ROS 2 applications from scratch with Python and C++](https://www.amazon.com/ROS-Beginners-Create-applications-scratch-ebook/dp/B0DHV4VF5C/ref=sr_1_4)
 
 [ROS and AI: An exploration of how AI and machine learning can be integrated with ROS for advanced robotic applications](https://bootcampai.medium.com/ros-and-ai-an-exploration-of-how-ai-and-machine-learning-can-be-integrated-with-ros-for-advanced-2711a4d0fa37)
 
